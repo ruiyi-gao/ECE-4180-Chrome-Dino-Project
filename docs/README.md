@@ -22,7 +22,7 @@ ECE 4180 Section B (Fall 2022) Final Project
 ## Parts List
 
 ## Block Diagram and Schematic
-![block diagram](/docs/assets/block_diagram.jpg)
+![block diagram](./assets/block_diagram.jpg)
 
 ## Software Design
 
