@@ -22,7 +22,7 @@ ECE 4180 Section B (Fall 2022) Final Project
 ## Parts List
 
 ## Block Diagram and Schematic
-![block diagram](https://github.com/ruiyi-gao/ECE-4180-Chrome-Dino-Project/blob/main/docs/assets/block_diagram.jpg)
+![block diagram](/docs/assets/block_diagram.jpg)
 
 ## Software Design
 
