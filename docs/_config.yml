@@ -1,6 +1,6 @@
 title: Chrome Dino Automation
 description: Final project for ECE 4180 section B (Fall 2022), by Ruiyi Gao and Yixiao Hu.
-logo: /assets/dino.png
+logo: ./assets/dino.png
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
