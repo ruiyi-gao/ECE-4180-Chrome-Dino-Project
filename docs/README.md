@@ -3,8 +3,8 @@
 **Team Members** <br>
 **Ruiyi Gao & Yixiao Hu** <br>
 
-Georgia Institute of Technology <br>
-ECE 4180 Section B (Fall 2022) Final Project
+ECE 4180 Section B (Fall 2022) Final Project<br>
+Georgia Institute of Technology 
 
 ## Table of Content
 * [Project Idea](#project-idea)
@@ -17,21 +17,18 @@ ECE 4180 Section B (Fall 2022) Final Project
 
 ## Project Idea
 Our project idea is fairly simple! <br>
+
 We want to play the chrome dino game through various ways (using different peripherals), including the ultimate goal of letting mbed play the game automatically. <br>
 
 Using peripherals we used in labs, we came up with the following ways to manually play dino game using mbed:
 1. **Push Buttons** <br>
-We used two push buttons to represent the actions of the dino. <br>
-The top push button makes the dino jump and the bottom makes it crouch. <br>
+We used two push buttons to represent the actions of the dino. The top push button makes the dino jump and the bottom makes it crouch. <br>
 2. **Navigation Switch** <br>
-Similar to the button idea, if nagivation switch is toggleed upward, the dino would jump. <br>
-If the nagivation switch is toggled downward, the dino would crouch.
+Similar to the button idea, if nagivation switch is toggleed upward, the dino would jump. If the nagivation switch is toggled downward, the dino would crouch.
 3. **Microphone** <br>
 If the user claps their hand, the dino would jump.
 4. **LIDAR** <br>
-The player could put their hand in front of the LIDAR sensor and move toward or away form it. <br>
-If the distance between LIDAR is greater than 20cm, the dino would jump. <br>
-If the distance between LIDAR is less than 10cm, the dino would crouch. <br>
+The player could put their hand in front of the LIDAR sensor and move toward or away form it. If the distance between LIDAR is greater than 20cm, the dino would jump. If the distance between LIDAR is less than 10cm, the dino would crouch. <br>
 
 ## Demo Videos
 We provided an all-in-one demo so you could see every feature in one place, but there are also separate videos for each feature if you want to explore more! <br>
@@ -54,9 +51,9 @@ https://youtu.be/9gRKd20tYLc
 ## Parts List
 MBed LPC1768, https://www.sparkfun.com/products/9564 <br>
 SPST Push Buttons * 2, https://www.sparkfun.com/products/9190 <br>
-Navigation Switch, https://www.sparkfun.com/products/retired/11187 <br>
+Navigation Switch, https://www.sparkfun.com/products/11187 <br>
 SPW2430 Microphone, https://www.adafruit.com/product/2716 <br>
-HDJD-S822 Color Sensor * 2, https://www.sparkfun.com/products/retired/10904 <br>
+HDJD-S822 Color Sensor * 2, https://www.sparkfun.com/products/10904 <br>
 Mini USB Breakout, https://www.sparkfun.com/products/9966 <br>
 HC-SR04 SONAR, https://www.sparkfun.com/products/15569 <br>
 
