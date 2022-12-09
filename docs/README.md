@@ -1,4 +1,4 @@
-# Chrome Dino Automation Project
+# Chrome Dino Automation
 
 **Team Members** <br>
 **Ruiyi Gao & Yixiao Hu** <br>
